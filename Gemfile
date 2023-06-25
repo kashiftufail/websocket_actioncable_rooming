@@ -76,3 +76,7 @@ group :test do
 end
 
 gem "devise", "~> 4.9"
+
+gem "ransack", "~> 4.0"
+
+gem "will_paginate", "~> 4.0"
